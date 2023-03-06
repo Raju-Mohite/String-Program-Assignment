@@ -94,6 +94,8 @@ True
 '12345'
 >>> a= "HOLLO WORLD"
 >>> a
+>>> a='Hello world'
+>>> a.upper()
 'HOLLO WORLD'
 >>> a.isupper()
 True
